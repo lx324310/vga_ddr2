@@ -14,4 +14,4 @@ Here is two ways to increase the resolution of vga
 2、enlarge the data width of VGA and DDR2 control(choose the way)
 
 SO I design the system again by enlarge the data width of VGA and DDR2 control and test succesfully in xilinx ml501 board.
-This design can display 800x600 size of 60hz refresh frequncy stably
+This design can display 800x600 size of 60hz refresh frequncy stably, you can git this project and test on xilinx ml501 board. If you want to test on other xilinx board you should change the DDR2 MIG of DDR2 control and change the ucf of this test.
